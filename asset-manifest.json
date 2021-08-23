@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/zadra/static/css/main.24dbd5b8.chunk.css",
+    "main.js": "/zadra/static/js/main.98821dc6.chunk.js",
+    "main.js.map": "/zadra/static/js/main.98821dc6.chunk.js.map",
+    "runtime-main.js": "/zadra/static/js/runtime-main.0e88a9b1.js",
+    "runtime-main.js.map": "/zadra/static/js/runtime-main.0e88a9b1.js.map",
+    "static/css/2.818011ed.chunk.css": "/zadra/static/css/2.818011ed.chunk.css",
+    "static/js/2.e69e2f27.chunk.js": "/zadra/static/js/2.e69e2f27.chunk.js",
+    "static/js/2.e69e2f27.chunk.js.map": "/zadra/static/js/2.e69e2f27.chunk.js.map",
+    "static/js/3.983351b4.chunk.js": "/zadra/static/js/3.983351b4.chunk.js",
+    "static/js/3.983351b4.chunk.js.map": "/zadra/static/js/3.983351b4.chunk.js.map",
+    "index.html": "/zadra/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/zadra/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.24dbd5b8.chunk.css.map": "/zadra/static/css/main.24dbd5b8.chunk.css.map",
+    "static/js/2.e69e2f27.chunk.js.LICENSE.txt": "/zadra/static/js/2.e69e2f27.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/zadra/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e88a9b1.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.e69e2f27.chunk.js",
+    "static/css/main.24dbd5b8.chunk.css",
+    "static/js/main.98821dc6.chunk.js"
+  ]
+}
