@@ -26,7 +26,7 @@ Only I contribute to this project
     
 ### Link to live Site
     
-[![Click Here](https://michaelzadra27.github.io/zadra/)]
+[Click Here](https://michaelzadra27.github.io/zadra/)
     
 ### Questions
     
