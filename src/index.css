@@ -35,6 +35,7 @@ body {
   min-height: 100vh;
   text-rendering: optimizeSpeed;
   line-height: 1.5;
+  margin: 50px;
 }
 
 /* A elements that don't have a class get default styles */
@@ -140,6 +141,7 @@ li {
   justify-content:space-evenly;
   color:#00171F;
   height: 20rem;
+  border-radius:10%;
   
 }
 
@@ -151,10 +153,10 @@ li {
   text-decoration: underline #274690 .42em;
 }
 
-#imgPad{
+/* #imgPad{
     padding-left: 4em;
     padding-right: 4em;
-}
+} */
 
 .imgBoxParent{
   background-color: #F5F4F5;
@@ -222,4 +224,20 @@ a:link, a:visited,  a:hover, a:active
 {
     color: #FFFF;
     text-decoration: none;
+}
+
+.padLeft {
+  width: 12.499999995%!important;
+}
+/* .projectCards {
+  width: 300px;
+  height: 300px;
+  overflow: hidden;
+  position: relative;
+} */
+
+#aboutMe{
+  
+    border-radius: 8%;
+  
 }

@@ -16,7 +16,7 @@ return (
                     <i class="fab fa-github fa-3x"></i>
                 </a>
             </div>
-
+            <div>michaelzadra27@gmail.com</div>
         </div>
 )
 }
