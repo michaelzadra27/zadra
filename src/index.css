@@ -241,3 +241,8 @@ a:link, a:visited,  a:hover, a:active
     border-radius: 8%;
   
 }
+
+img {
+  max-width: 100%;
+  height: auto;
+}

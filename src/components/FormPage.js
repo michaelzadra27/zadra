@@ -8,7 +8,7 @@ return (
             <div class="col-4 header footer"><a href="https://www.linkedin.com/in/michael-zadra-870165154/"><i
                         class="fab fa-linkedin-in fa-3x"></i></a></div>
 
-            <div id="resume" class="col-4 header footer"><a href="./assets/myresume.pdf" download>Resume<i
+            <div id="resume" class="col-4 header footer"><a href="https://docs.google.com/document/d/1udp7jQVZ5gc4n5_Mr23MnEVWSIj4xYBOdhxpUJr7fIM/edit?usp=sharing">Resume<i
                         class="bi bi-file-earmark-person mx-3"></i></a></div>
 
             <div class="col-4 header footer">
