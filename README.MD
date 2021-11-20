@@ -1,4 +1,4 @@
-# zadra
+# Zadra
 
 ### This is my portfolio! I'm always trying to improve it with cleaner, more efficient code.
     
